@@ -1,0 +1,96 @@
+.content{
+    font-weight: bold;
+    flex-direction: row;
+    padding: 10px;
+    color: white;
+}
+.component{
+    float: left 10px;
+    margin-left: 10px;
+    display: flex ;
+    flex-direction: row;
+    
+}
+.A{
+    margin-left: 150px;
+    display: flex;
+    text-align: right;
+    float: left;
+    justify-content: end;
+    color: white;
+}
+.B{
+    margin-left: 150px;
+    margin-left: 150px;
+    display: flex;
+    text-align: right;
+    float: left;
+    justify-content: end;
+    color: white;
+}
+.C{
+    margin-left: 150px ;
+    margin-left: 150px;
+    display: flex;
+    text-align: right;
+    float: left;
+    justify-content: end;
+    color: white;
+}
+.D{
+    margin-left: 150px ;
+    margin-left: 150px;
+    display: flex;
+    text-align: right;
+    float: left;
+    justify-content: end;
+    color: white; 
+}
+.fox{
+    margin-left: 150px ;
+    margin-left: 150px;
+    display: flex;
+    text-align: right;
+    float: left;
+    justify-content: end; 
+    border-radius: 10px; 
+}
+
+.m{
+    font-weight: bold;
+    
+}
+.n{
+    font-weight: bold;
+    
+}
+.w{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.x{
+    color: white;
+}
+.y{
+    padding: 15px;
+    border-radius: 25px;
+    background-color: yellow;
+    color: purple;
+    font-weight: bolder;
+
+}
+.photo{
+    display: flex;
+    position: absolute;
+    top: 0%;
+    margin-left: 50%;
+    margin-top: 10%;
+    width: 90%;
+    height: 90%;
+    
+}
+body{
+    background-color: purple;
+}
+
+    
