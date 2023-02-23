@@ -11,7 +11,7 @@
     flex-direction: row;
     
 }
-.A{
+.float{
     margin-left: 150px;
     display: flex;
     text-align: right;
@@ -19,7 +19,7 @@
     justify-content: end;
     color: white;
 }
-.B{
+.front{
     margin-left: 150px;
     margin-left: 150px;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: end;
     color: white;
 }
-.C{
+.font{
     margin-left: 150px ;
     margin-left: 150px;
     display: flex;
@@ -37,7 +37,7 @@
     justify-content: end;
     color: white;
 }
-.D{
+.flex{
     margin-left: 150px ;
     margin-left: 150px;
     display: flex;
@@ -64,14 +64,14 @@
     font-weight: bold;
     
 }
-.w{
+.floating{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
-.x{
+.display{
     color: white;
 }
-.y{
+.text{
     padding: 15px;
     border-radius: 25px;
     background-color: yellow;
